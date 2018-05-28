@@ -6,7 +6,7 @@ class Request extends Component {
     return (
         <section>
         <div className="jumbotron">
-            <p class="text-center">Call now: <strong>+9769067349</strong> or <strong>leave a mail at </strong> <a href="">  mithilesh.tarkar@ves.ac.in </a></p>
+            <p className="text-center">Call now: <strong>+9769067349</strong> or <strong>leave a mail at </strong> <a href="">  mithilesh.tarkar@ves.ac.in </a></p>
             <p style={{textAlign:'center'}}> <strong>Guitar Lessons , Piano Lessons , Web and App Development , Coding Lessons ?? </strong></p>
              <p style={{textAlign:'center'}}> Mention your Requirements and i will get back to you. </p>
         </div>
