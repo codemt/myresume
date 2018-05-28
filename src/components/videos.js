@@ -14,7 +14,7 @@ import '../stylesheets/Dynamically-Queue-Videos.css';
         <iframe width="560" height="315" src="https://www.youtube.com/embed/K8KVEWLXtJQ" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen></iframe>
         </div>
         <div className="embed-responsive embed-responsive-16by9">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/2ziTEEkb0ws" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/2ziTEEkb0ws" frameBorder="0" allow="autoplay; encrypted-media" allowFullScreen></iframe>
         </div>
         
   </div>        

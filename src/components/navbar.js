@@ -6,11 +6,11 @@ class NavBar extends Component {
     return (
         <div>
             <Navbar brand='MT' right style={{backgroundColor:'#7f8fa6'}}>
-            <NavItem componentClass={Link} href="/" to="/">About Me</NavItem>
-            <NavItem componentClass={Link} href="/services" to="/services">My Services</NavItem>
-            <NavItem componentClass={Link}href="/works" to="works">My Works</NavItem>
-            <NavItem componentClass={Link} href="/videos" to="videos">My Videos</NavItem>
-            <NavItem componentClass={Link} href="/request" to="request">Request a Quote</NavItem>
+            <NavItem  href="/" to="/">About Me</NavItem>
+            <NavItem  href="/services" to="/services">My Services</NavItem>
+            <NavItem href="/works" to="works">My Works</NavItem>
+            <NavItem  href="/videos" to="videos">My Videos</NavItem>
+            <NavItem href="/request" to="request">Request a Quote</NavItem>
              </Navbar>
       </div>
     )
